@@ -1,0 +1,7 @@
+base   toggle
+author condero Aktiengesellschaft
+email  info@condero.com
+date   2017-04-07
+name   Toggle Plugin
+desc   This plugin toggles visibility of text, for example passwords.
+url    https://www.dokuwiki.org/plugin:toggle

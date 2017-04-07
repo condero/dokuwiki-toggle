@@ -1,3 +1,10 @@
-Plugin for Dokuwiki
+# Toggle Plugin for Dokuwiki
 
-See https://www.dokuwiki.org/plugin:toggle for more info about installation and usage.
+by condero Aktiengesellschaft
+
+This plugin toggles visibility of text
+
+## Installation and usage
+
+See https://www.dokuwiki.org/plugin:toggle for more info
+

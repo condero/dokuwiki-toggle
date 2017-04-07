@@ -23,7 +23,7 @@ class syntax_plugin_toggle extends DokuWiki_Syntax_Plugin {
 		return array(
 			'author'	=> 'condero Aktiengesellschaft',
 			'email'		=> 'info@condero.com',
-			'date'		=> '2016-11-28',
+			'date'		=> '2017-04-07',
 			'name'		=> 'Toggle Plugin',
 			'desc'		=> 'This plugin toggles visibility of text.',
 			'url'		=> 'http://www.dokuwiki.org/plugin:toggle',
